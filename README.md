@@ -13,7 +13,7 @@ Stern, R., Felner, A., van den Berg, J., Puzis, R., Shah, R., & Goldberg, K. (20
 https://doi.org/10.1016/j.artint.2014.05.002
 
 # Requirements
--- Python 3.8.10
--- pygame 2.0.1 
--- pygame_menu 4.0.2
--- sympy 1.8
+-- Python 3.8.10 <br />
+-- pygame 2.0.1 <br />
+-- pygame_menu 4.0.2 <br />
+-- sympy 1.8 <br />
